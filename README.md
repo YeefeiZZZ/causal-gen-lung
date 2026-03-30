@@ -105,19 +105,3 @@ pip install -e .
 
 ---
 
-## 📝 Citation
-
-If you find this code useful for your research, please cite the following publication:
-
-```bibtex
-@InProceedings{pmlr-v202-de-sousa-ribeiro23a,
-  title     = {High Fidelity Image Counterfactuals with Probabilistic Causal Models},
-  author    = {De Sousa Ribeiro, Fabio and Xia, Tian and Monteiro, Miguel and Pawlowski, Nick and Glocker, Ben},
-  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
-  pages     = {7390--7425},
-  year      = {2023},
-  volume    = {202},
-  series    = {Proceedings of Machine Learning Research},
-  url       = {https://proceedings.mlr.press/v202/de-sousa-ribeiro23a.html}
-}
-```
